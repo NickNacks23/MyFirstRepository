@@ -1,0 +1,5 @@
+*.log
+
+folder1/
+
+.DS_Store
