@@ -23,7 +23,7 @@ public class Labs1{//main class
 		System.out.println("What's your income");
 		income=keyboard.nextDouble();
 	//display the result
-	System.out.println("Hello "+name+" your age is "+age+" and the income is $"+income);
+	System.out.println("Hello "+name+" your age is "+age+" and the income is $"+income+"!");
 
 	}
 	}
