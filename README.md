@@ -1,5 +1,5 @@
 # MyFirstRepository
-# My Java Project
+My Java Project: 
 
 Name: Nicholas Garcia
 
