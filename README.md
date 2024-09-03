@@ -7,6 +7,6 @@ GitHub Repo Link: [Link to your repo](https://github.com/your_username/MyFirstRe
 
 Screencast Video Link: (https://your_video_link)
 
-IDE: Eclipse
+IDE: VSCode
 
 Screencast Software: OBS Studio
