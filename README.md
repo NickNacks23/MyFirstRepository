@@ -2,7 +2,7 @@
 
 Name: Nicholas Garcia
 
-GitHub Repo Link: [Link to your repo](https://github.com/your_username/MyFirstRepo)
+GitHub Repo Link: [(https://github.com/NickNacks23/MyFirstRepository.git)]
 
 Screencast Video Link: [(https://youtu.be/sq3hl7xgIrY)]
 
